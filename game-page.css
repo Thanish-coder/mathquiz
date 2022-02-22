@@ -1,0 +1,57 @@
+body{
+    background-image: url(bg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+}
+
+
+img{
+    height: 80px;
+}
+
+input{
+    border-radius: 50px;
+    height: 20px;
+    width:250px;
+    font-size: larger;
+    font-style: initial;
+    background-color: aqua;
+}
+
+button{
+    width: 100px;
+    height: 25px;
+    font-size: 20px;
+    font-style: initial;
+    background-color: transparent;
+    color: whitesmoke;
+    border-color: aqua;
+}
+
+.n1,.n2{
+    border: 3px;
+    border-radius: 10px;
+    border-style: solid;
+    width: 40%;
+    border-color: lightskyblue;
+
+}
+
+h4{
+    color: whitesmoke;
+    font-size: 20px;
+    font-style: italic;
+}
+
+h3{
+    color: white;
+    top: 0;
+}
+
+span{
+    color: white;
+}
+
